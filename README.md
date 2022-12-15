@@ -1,7 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-This is an app clone from the Swift Udemy iOS Bootcamp by Angela Yu.
-It is not finished yet. I will add some custom features in the future.
+This is an app clone from the Swift Udemy iOS Bootcamp by Angela Yu. 
+It is not finished yet. I am working on it and I will add some custom features in the future.
 
 # Xylophone
 
