@@ -1,17 +1,22 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
+This is an app clone from the Swift Udemy iOS Bootcamp by Angela Yu.
+It is not finished yet. I will add some custom features in the future.
+
 # Xylophone
 
-## Our Goal
+## The Goal
 
-The goal of this tutorial is to dive into a simple iOS recipe - how to play sound and use an Apple library called AVFoundation. The most important skill of a great programmer is being able to solve your own problems. We’ll do that by exploring StackOverflow, Apple Documentation and learning how to search for solutions effectively. By learning to use these tools, you’ll be able to start adding custom features to an app and get it to do what you want it to.
+To dive into a simple iOS recipe - how to play sound using an Apple library called AVFoundation. 
+Practising the most important skill of a great programmer: being able to solve your own problems. 
+We’ll do that by exploring StackOverflow, Apple Documentation and learning how to search for solutions effectively. 
 
 
-## What you will create
+## What is it?
 
-You will be making your first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this module, we’re going to make a colourful XyloPhone app. Get it? Ok, the jokes are bad, but remember, I only wrote the good ones... 
+A colourful XyloPhone app.
 
-## What you will learn
+## What I will learn
 
 * How to play sound using AVFoundation and AVAudioPlayer.
 * Understand Apple documentation and how to use StackOverflow.
